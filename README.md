@@ -8,6 +8,8 @@ Buit with [reveal.js](https://revealjs.com/)
 2. Run `npm i` to install dependencies
 3. Run `npm start` to run server
 4. Hit [http://localhost:8000](http://localhost:8000) to see slides
+5. Tweak [index.html](./index.html) to change content of the slides
+6. Tweak [custom.css](./dist/custom.css) to change styling of the slides
 
 ## Script
 
