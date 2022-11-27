@@ -44,3 +44,9 @@ Platform that funds (public organizations) can use to organize special events fo
 - Git and GitHub for collaboration
 
 ### Challenges
+
+- Merge conflicts. Solved with daily communication and assigning roles.
+- Storing images. Solved with cloudinary.
+- Sending emails. Solved with mailjet.
+- Authentication. Solved with sessions.
+- Error handling. Lack of error handling strategy on the server. Solved with the help of a mentor.
