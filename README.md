@@ -1,5 +1,7 @@
 # Stichtingify slides
 
+Buit with [reveal.js](https://revealjs.com/)
+
 ## Set up
 
 1. Clone repository
