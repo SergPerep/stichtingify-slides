@@ -1,0 +1,56 @@
+section {
+    text-align: left;
+}
+
+/*===== TEAM SLIDE =====*/
+
+.team-slide ul {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 0;
+}
+
+.team-slide li {
+    width: 50%;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.team-slide li img {
+    margin-right: 2rem;
+    width: 8rem;
+    height: 8rem;
+    border-radius: 50%;
+}
+
+/*===== TECH STACK SLIDE =====*/
+
+.tech-stack-slide ul {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 0;
+}
+
+.tech-stack-slide li {
+    width: 50%;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.tech-stack-slide li img {
+    margin-right: 1rem;
+    width: 8rem;
+    height: 8rem;
+    border-radius: 50%;
+}
+
+/*===========*/
+
+.website {
+    width: 100%;
+    height: 32rem;
+}
